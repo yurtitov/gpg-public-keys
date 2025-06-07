@@ -1,1 +1,1 @@
-# My gpg publick keys
+# My gpg public keys
